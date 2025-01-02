@@ -11,10 +11,15 @@ I am passionate about developing projects that showcase my skills and learning a
 - 🌟 Learning Python and SQL to expand my technical skills
 
 ## Projects
-Here are some projects I’m working on or plan to add soon:
- 
+Here are some projects I’m working on or have already completed:
+
+### 1. Port Scanner
+- **Description**: A Python script that scans open ports on a target network, helping identify potential vulnerabilities.
+- **Skills Demonstrated**: Python scripting, networking concepts.
+- **Location**: [Port Scanner folder](./Port%20Scanner)
 
 Stay tuned as I continue to build and showcase more projects!
+
 
 ## Contact
 Feel free to reach out or connect with me:
