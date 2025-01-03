@@ -17,6 +17,11 @@ Here are some projects I’m working on or have already completed:
 - **Description**: A Python script that scans open ports on a target network, helping identify potential vulnerabilities.
 - **Skills Demonstrated**: Python scripting, networking concepts.
 - **Location**: [Port Scanner folder](./Port%20Scanner)
+### 2. Password Strength Checker
+- **Description**: A Python script to evaluate the strength of a password based on its length, complexity, and special characters.
+- **Skills Demonstrated**: Python programming, regex, secure coding practices.
+- **Location**: [PasswordChecker folder](./PasswordChecker)
+
 
 Stay tuned as I continue to build and showcase more projects!
 
