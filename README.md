@@ -29,4 +29,4 @@ Stay tuned as I continue to build and showcase more projects!
 ## Contact
 Feel free to reach out or connect with me:
 - **Email**: [makaylaescada@gmail.com](mailto:makaylaescada@gmail.com)
-- **LinkedIn**: [linkedin.com/in/makaylajohnson](https://linkedin.com/in/makaylajohnson)
+- **LinkedIn**: [linkedin.com/in/makaylajohnson](https://www.linkedin.com/in/johnsonmakayla)
